@@ -1,0 +1,6 @@
+A:\PROJECTS\IFMO\01\SumLongHex\SumLongHex\bin\Debug\SumLongHex.exe.config
+A:\PROJECTS\IFMO\01\SumLongHex\SumLongHex\bin\Debug\SumLongHex.exe
+A:\PROJECTS\IFMO\01\SumLongHex\SumLongHex\bin\Debug\SumLongHex.pdb
+A:\PROJECTS\IFMO\01\SumLongHex\SumLongHex\obj\Debug\SumLongHex.csprojResolveAssemblyReference.cache
+A:\PROJECTS\IFMO\01\SumLongHex\SumLongHex\obj\Debug\SumLongHex.exe
+A:\PROJECTS\IFMO\01\SumLongHex\SumLongHex\obj\Debug\SumLongHex.pdb

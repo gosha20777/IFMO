@@ -1,0 +1,6 @@
+A:\PROJECTS\IFMO\01\Sum\Sum\bin\Debug\Sum.exe.config
+A:\PROJECTS\IFMO\01\Sum\Sum\bin\Debug\Sum.exe
+A:\PROJECTS\IFMO\01\Sum\Sum\bin\Debug\Sum.pdb
+A:\PROJECTS\IFMO\01\Sum\Sum\obj\Debug\Sum.csprojResolveAssemblyReference.cache
+A:\PROJECTS\IFMO\01\Sum\Sum\obj\Debug\Sum.exe
+A:\PROJECTS\IFMO\01\Sum\Sum\obj\Debug\Sum.pdb
