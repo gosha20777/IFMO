@@ -1,0 +1,6 @@
+A:\PROJECTS\IFMO\02\ArrayQueueModule\ArrayQueueModule\bin\Debug\ArrayQueueModule.exe.config
+A:\PROJECTS\IFMO\02\ArrayQueueModule\ArrayQueueModule\bin\Debug\ArrayQueueModule.exe
+A:\PROJECTS\IFMO\02\ArrayQueueModule\ArrayQueueModule\bin\Debug\ArrayQueueModule.pdb
+A:\PROJECTS\IFMO\02\ArrayQueueModule\ArrayQueueModule\obj\Debug\ArrayQueueModule.csprojResolveAssemblyReference.cache
+A:\PROJECTS\IFMO\02\ArrayQueueModule\ArrayQueueModule\obj\Debug\ArrayQueueModule.exe
+A:\PROJECTS\IFMO\02\ArrayQueueModule\ArrayQueueModule\obj\Debug\ArrayQueueModule.pdb
