@@ -1,0 +1,12 @@
+c:\users\gosha\documents\visual studio 2017\Projects\ExpressionApp\ExpressionApp\bin\Debug\ExpressionApp.exe.config
+c:\users\gosha\documents\visual studio 2017\Projects\ExpressionApp\ExpressionApp\bin\Debug\ExpressionApp.exe
+c:\users\gosha\documents\visual studio 2017\Projects\ExpressionApp\ExpressionApp\bin\Debug\ExpressionApp.pdb
+c:\users\gosha\documents\visual studio 2017\Projects\ExpressionApp\ExpressionApp\obj\Debug\ExpressionApp.csprojResolveAssemblyReference.cache
+c:\users\gosha\documents\visual studio 2017\Projects\ExpressionApp\ExpressionApp\obj\Debug\ExpressionApp.exe
+c:\users\gosha\documents\visual studio 2017\Projects\ExpressionApp\ExpressionApp\obj\Debug\ExpressionApp.pdb
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\HW5\CSharp\ExpressionApp\bin\Debug\ExpressionApp.exe.config
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\HW5\CSharp\ExpressionApp\bin\Debug\ExpressionApp.exe
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\HW5\CSharp\ExpressionApp\bin\Debug\ExpressionApp.pdb
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\HW5\CSharp\ExpressionApp\obj\Debug\ExpressionApp.csprojResolveAssemblyReference.cache
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\HW5\CSharp\ExpressionApp\obj\Debug\ExpressionApp.exe
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\HW5\CSharp\ExpressionApp\obj\Debug\ExpressionApp.pdb
