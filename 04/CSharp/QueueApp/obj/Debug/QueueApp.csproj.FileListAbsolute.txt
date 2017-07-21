@@ -1,0 +1,6 @@
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\HW4\CSharp\QueueApp\QueueApp\bin\Debug\QueueApp.exe.config
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\HW4\CSharp\QueueApp\QueueApp\bin\Debug\QueueApp.exe
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\HW4\CSharp\QueueApp\QueueApp\bin\Debug\QueueApp.pdb
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\HW4\CSharp\QueueApp\QueueApp\obj\Debug\QueueApp.csprojResolveAssemblyReference.cache
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\HW4\CSharp\QueueApp\QueueApp\obj\Debug\QueueApp.exe
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\HW4\CSharp\QueueApp\QueueApp\obj\Debug\QueueApp.pdb
