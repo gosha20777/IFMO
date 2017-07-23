@@ -1,0 +1,12 @@
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\HW6\TripleExpressionApp\TripleExpressionApp\bin\Debug\TripleExpressionApp.exe.config
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\HW6\TripleExpressionApp\TripleExpressionApp\bin\Debug\TripleExpressionApp.exe
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\HW6\TripleExpressionApp\TripleExpressionApp\bin\Debug\TripleExpressionApp.pdb
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\HW6\TripleExpressionApp\TripleExpressionApp\obj\Debug\TripleExpressionApp.csprojResolveAssemblyReference.cache
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\HW6\TripleExpressionApp\TripleExpressionApp\obj\Debug\TripleExpressionApp.exe
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\HW6\TripleExpressionApp\TripleExpressionApp\obj\Debug\TripleExpressionApp.pdb
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\07\CSharp\TripleExpressionApp\TripleExpressionApp\bin\Debug\TripleExpressionApp.exe.config
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\07\CSharp\TripleExpressionApp\TripleExpressionApp\bin\Debug\TripleExpressionApp.exe
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\07\CSharp\TripleExpressionApp\TripleExpressionApp\bin\Debug\TripleExpressionApp.pdb
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\07\CSharp\TripleExpressionApp\TripleExpressionApp\obj\Debug\TripleExpressionApp.csprojResolveAssemblyReference.cache
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\07\CSharp\TripleExpressionApp\TripleExpressionApp\obj\Debug\TripleExpressionApp.exe
+A:\PROJECTS\IFMO\ALL_HomeWork\ParadigmsHomework-master\07\CSharp\TripleExpressionApp\TripleExpressionApp\obj\Debug\TripleExpressionApp.pdb
